@@ -50,7 +50,7 @@
 
 <div align="left">
   <a href="https://www.instagram.com/stefanidhs__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/marios-stefanidis-aab1aa231/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
