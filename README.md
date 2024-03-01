@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">•  <strong>Web development:</strong> Explore my new web development projects where i show my skills for front-end and back-end development.<br><br>•  <strong>Machine learning & Computer vision:</strong> Check out my projects in the field of machine learning and computer vision</p>
+<p align="left">•  <strong>Web development: </strong> Explore my new web development projects where i show my skills for front-end and back-end development.<br>•  <strong>Machine learning & Computer vision: </strong> Check out my projects in the field of machine learning and computer vision</p>
 
 ###
 
