@@ -30,7 +30,7 @@ A focused view of my core competencies.
 
 ### [03] Project Highlights
 
-Showcasing systems design and practical engineering skills.
+
 
 <details style="font-family: monospace; border: 1px solid #64FFDA; padding: 10px; border-radius: 5px;">
 <summary style="font-weight: bold; color: #64FFDA;">VIEW FEATURED REPOSITORIES</summary>
