@@ -1,76 +1,104 @@
-<!-- Super Mario GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="120" alt="Super Mario running" style="margin-bottom:15px;">
+  <img src="https://media.giphy.com/media/26n6GxIuzJ0k6fGjC/giphy.gif" width="90" height="90" alt="Animated terminal icon" style="border-radius: 5px; border: 3px solid #64FFDA; padding: 5px; margin-bottom: 20px;">
 </div>
 
-<h1 align="center">Marios Stefanidis</h1>
+<h1 align="center" style="font-family: monospace;">MARIOS STEFANIDIS</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00B2FF&center=true&vCenter=true&width=450&lines=Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
-</p>
-
-<p align="center" style="max-width:600px; line-height:1.6;">
-  I build software that’s elegant, reliable, and scalable.  
-  My focus is on creating solutions that are simple on the surface but powerful under the hood.  
-  Always exploring new tech, architecture patterns, and ways to improve developer workflows.
-</p>
-
-<br>
-
-<h3 align="center">Tech Stack</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,react,nodejs,express,vue,postgresql,mysql,docker,git,linux,html,css&perline=8" height="45" />
-</div>
-
-<br>
-
-<!-- subtle coding animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif" width="360" alt="Coding animation" style="border-radius:10px;" />
-</p>
-
-<p align="center" style="margin-top:15px;">
-  <i>Currently exploring distributed systems · cloud architecture · machine learning · scalable backend design</i>
-</p>
-
-<br>
-
-<div align="center" style="margin-top:20px;">
-  <a href="https://www.linkedin.com/in/marios-stefanidis-aab1aa231">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://mariodev.me">
-    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MStefa003&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="420" alt="GitHub Stats" />
-</p>
-
-<p align="center" style="margin-top:5px;">
-  <sub>“Good software is quiet confidence made visible.”</sub>
+<p align="center" style="font-family: monospace; font-size: 1.2em; font-weight: 600;">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=700&color=64FFDA&center=true&vCenter=true&width=600&lines=SOFTWARE+ENGINEER+%7C+SYSTEMS+ARCHITECT;Building+High--Performance+Backends" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+### [01] Expertise & Focus
 
-<div align="left">
-  <a href="https://www.instagram.com/stefanidhs__/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="62" height="60" alt="instagram logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/marios-stefanidis-aab1aa231/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="62" height="60" alt="linkedin logo" />
+> **Software Engineer** based in **Greece 🇬🇷**. My work centers around developing **scalable, resilient backend services** and complex system architectures. I prioritize performance, maintainability, and clean separation of concerns.
+
+<p align="center" style="font-family: monospace; margin-top: 15px; font-size: 0.9em;">
+  — CURRENTLY EXPLORING: **EVENT STREAMING (KAFKA)** · **DEVOPS AUTOMATION (TERRAFORM)** —
+</p>
+
+<br>
+
+### [02] Technology Stack
+
+A focused view of my core competencies.
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,php,react,nodejs,docker,kubernetes,aws,git,linux,postgres,mysql" height="45" style="margin: 3px;" />
   </a>
 </div>
 
+<br>
 
+---
 
+### [03] Project Highlights
+
+Showcasing systems design and practical engineering skills.
+
+<details style="font-family: monospace; border: 1px solid #64FFDA; padding: 10px; border-radius: 5px;">
+<summary style="font-weight: bold; color: #64FFDA;">VIEW FEATURED REPOSITORIES</summary>
+<br>
+
+| Project | Key Skill Demonstrated | Repository |
+| :--- | :--- | :--- |
+| **Dijkstra Router Thesis** | Advanced **Pathfinding Algorithms** ($\text{A}^*$) | [View Code](https://github.com/MStefa003/dijkstra-router-thesis) |
+| **SnapLink Shortener** | **Microservice Architecture** & **High-Volume API Design** | [View Code](https://github.com/MStefa003/snaplink-url-shortener) |
+| **Restaurant Reservation** | **Full-Stack Implementation** (`React` + `PostgreSQL`) | [View Code](https://github.com/MStefa003/restaurant-reservation-app) |
+
+</details>
+
+<br>
+
+---
+
+### [04] Activity & Metrics
+
+Using a sharp, dark theme (`radical`) with a minimalist color palette for stats.
+
+<div align="center">
+  <a href="https://github.com/MStefa003/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MStefa003&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF&bg_color=0D1117" alt="Marios's GitHub Stats" />
+  </a>
+  <a href="https://github.com/MStefa003/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MStefa003&layout=compact&langs_count=6&theme=radical&hide_border=true&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF&bg_color=0D1117" alt="Marios's Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MStefa003&theme=dark&hide_border=true&line=64FFDA&point=64FFDA&bg_color=0D1117" alt="Marios's Activity Graph" />
+</div>
+
+<br>
+
+---
+
+### [05] Connect
+
+<div align="center" style="font-family: monospace;">
+  <a href="https://www.linkedin.com/in/marios-stefanidis-aab1aa231" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0D1117&colorB=0077B5"/>
+  </a>
+  &nbsp;
+  <a href="https://mariodev.me" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-%231A1A1A.svg?style=for-the-badge&logo=About.me&logoColor=white&colorA=0D1117&colorB=1A1A1A"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&colorA=0D1117&colorB=D14836"/>
+  </a>
+</div>
+
+<br>
+
+<p align="right" style="font-family: monospace; font-size: 0.8em; color: #999;">
+  // The best code is code that is easy to delete.
+</p>
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/MStefa003/count.svg" alt="Profile views counter" />
+</div>
