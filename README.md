@@ -1,43 +1,63 @@
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-# Hey there 👋, I'm Marios Stefanidis!  
-
-I’m a curious and passionate **junior developer** who loves building all kinds of projects — from web apps to small experiments in machine learning and data analysis.  
-Right now, I’m exploring different areas of software development to discover what I enjoy most while sharpening my skills along the way.  
-
----
-
-## 👤 About Me  
-
-- 🧑‍💻 Currently learning and building projects with **HTML, CSS, JavaScript, PHP, and Python**  
-- 🎯 Future goal: dive deeper into **machine learning** and **data analysis** to work on real-world insights and solutions  
-- 🚀 Always open to collaboration and new opportunities to grow as a developer  
-
----
-
-## 🧩 Projects & Experiments  
-
-Here are a few things I’ve been working on:  
-- **Web Development:** Front-end & back-end projects where I practice building complete applications  
-- **Machine Learning & Data Analysis:** Small experiments analyzing datasets, building models, and visualizing results  
-
-> 🔗 *Check out my pinned repositories below — I keep them updated as I learn more!*
-
----
-
-## 🛠️ Tech Stack  
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+<!-- Super Mario GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="120" alt="Super Mario running" style="margin-bottom:15px;">
 </div>
+
+<h1 align="center">Marios Stefanidis</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&color=00B2FF&center=true&vCenter=true&width=450&lines=Software+Developer;Tech+Enthusiast" alt="Typing Animation" />
+</p>
+
+<p align="center" style="max-width:600px; line-height:1.6;">
+  I build software that’s elegant, reliable, and scalable.  
+  My focus is on creating solutions that are simple on the surface but powerful under the hood.  
+  Always exploring new tech, architecture patterns, and ways to improve developer workflows.
+</p>
+
+<br>
+
+<h3 align="center">Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,react,nodejs,express,vue,postgresql,mysql,docker,git,linux,html,css&perline=8" height="45" />
+</div>
+
+<br>
+
+<!-- subtle coding animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif" width="360" alt="Coding animation" style="border-radius:10px;" />
+</p>
+
+<p align="center" style="margin-top:15px;">
+  <i>Currently exploring distributed systems · cloud architecture · machine learning · scalable backend design</i>
+</p>
+
+<br>
+
+<div align="center" style="margin-top:20px;">
+  <a href="https://www.linkedin.com/in/marios-stefanidis-aab1aa231">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://mariodev.me">
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MStefa003&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="420" alt="GitHub Stats" />
+</p>
+
+<p align="center" style="margin-top:5px;">
+  <sub>“Good software is quiet confidence made visible.”</sub>
+</p>
 
 ---
 
@@ -52,15 +72,5 @@ Here are a few things I’ve been working on:
   </a>
 </div>
 
----
 
-<p align="center">💬 <strong>Let’s connect!</strong> Whether it’s collaboration, learning together, or just chatting about tech — feel free to reach out.</p>
 
----
-
-## 📊 GitHub Stats  
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MStefa003&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MStefa003&layout=compact&theme=dracula&hide_border=false" height="150" alt="top langs graph" />
-</div>
