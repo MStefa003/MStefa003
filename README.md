@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26n6GxIuzJ0k6fGjC/giphy.gif" width="90" height="90" alt="Animated terminal icon" style="border-radius: 5px; border: 3px solid #64FFDA; padding: 5px; margin-bottom: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100" height="100" alt="Super Mario running" style="border-radius: 5px; border: 3px solid #64FFDA; padding: 5px; margin-bottom: 20px;">
 </div>
 
 <h1 align="center" style="font-family: monospace;">MARIOS STEFANIDIS</h1>
@@ -70,7 +70,7 @@ Using a sharp, dark theme (`radical`) with a minimalist color palette for stats.
 <br>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MStefa003&theme=dark&hide_border=true&line=64FFDA&point=64FFDA&bg_color=0D1117" alt="Marios's Activity Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MStefa003&theme=dark&hide_border=true&ring=64FFDA&side_panel_bg=0D1117&stroke=64FFDA&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -98,7 +98,3 @@ Using a sharp, dark theme (`radical`) with a minimalist color palette for stats.
 <p align="right" style="font-family: monospace; font-size: 0.8em; color: #999;">
   // The best code is code that is easy to delete.
 </p>
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/MStefa003/count.svg" alt="Profile views counter" />
-</div>
