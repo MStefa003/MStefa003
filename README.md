@@ -50,7 +50,7 @@ Showcasing systems design and practical engineering skills.
 
 ### [04] Activity & Metrics
 
-Using a sharp, dark theme (`radical`) with a minimalist color palette for stats.
+
 
 <div align="center">
   <a href="https://github.com/MStefa003/github-readme-stats">
