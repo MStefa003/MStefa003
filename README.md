@@ -8,7 +8,7 @@
 
 ### [01] Expertise & Focus
 
-> **Software Engineer** based in **Greece 🇬🇷**. My work centers around developing **scalable, resilient backend services** and complex system architectures. I prioritize performance, maintainability, and clean separation of concerns.
+> **Software Developer** based in **Greece 🇬🇷**. My work centers around developing **scalable, resilient backend services** and complex system architectures. I prioritize performance, maintainability, and clean separation of concerns.
 
 
 
