@@ -10,9 +10,7 @@
 
 > **Software Engineer** based in **Greece 🇬🇷**. My work centers around developing **scalable, resilient backend services** and complex system architectures. I prioritize performance, maintainability, and clean separation of concerns.
 
-<p align="center" style="font-family: monospace; margin-top: 15px; font-size: 0.9em;">
-  — CURRENTLY EXPLORING: EVENT STREAMING (KAFKA) · DEVOPS AUTOMATION (TERRAFORM) —
-</p>
+
 
 <br>
 
@@ -91,9 +89,6 @@ Using a sharp, dark theme (`radical`) with a minimalist color palette for stats.
 
 <br>
 
-<div align="center">
-  <p style="font-family: monospace; font-size: 0.8em; color: #999;">
-    // The best code is code that is easy to delete.
-  </p>
+
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Super Mario running signature banner" />
 </div>
